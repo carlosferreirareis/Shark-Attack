@@ -1,0 +1,64 @@
+https://my.ironhack.com/cohorts/6308c6d3126a7f002ce93ec7/lms/courses/course-v1:IRONHACK+DAFT+202303_RMT/modules/7c6a844badcd44d5803d14193f54d011/units/59cf561be7154549b90fa8bc9508aeb3
+
+Introdução
+O objetivo deste projeto é fornecer a você experiência prática em limpeza, organização e transformação de um conjunto de dados do mundo real usando Python. Ao final deste projeto, você será capaz de demonstrar sua capacidade de aplicar os conceitos de programação Python para realizar tarefas de limpeza, organização e manipulação de dados.
+
+Para este projeto, você trabalhará em grupos com um conjunto de dados confuso chamado "Shark Attacks" e usará suas habilidades de organização de dados para limpá-lo e prepará-lo para análise. 
+
+Você pode encontrar o conjunto de dados e informações sobre os dados aqui .
+https://www.sharkattackfile.net/incidentlog.htm
+
+Como começar
+
+1.Crie seu repositório github, não se esqueça de confirmar com antecedência e com frequência.
+2.Baixe o conjunto de dados e importe-o para o Python.
+3.Examine os dados e tente entender o significado dos campos antes de prosseguir com a limpeza e manipulação dos dados.
+4.Use dicas rápidas sobre análise exploratória de dados, como o método "describe" e gráficos básicos, para explorar os dados e identificar quaisquer problemas que precisem ser resolvidos.
+5.Decida uma hipótese (ou hipóteses) para orientar seus esforços de limpeza. Apresente a análise de forma clara e coerente para apoiar os resultados. Por exemplo: "Os tubarões atacam mais pessoas jovens do que as mais velhas", "A maneira mais fácil de ser atacado por um tubarão é surfando", "Os tubarões atacam mais pessoas nos EUA do que na Islândia", etc.
+6.Aplique pelo menos cinco técnicas de limpeza de dados, como manipulação de valores nulos, descarte de colunas, remoção de dados duplicados, manipulação de strings, formatação de dados etc., para preparar o conjunto de dados para análise.
+7.Depois que os dados forem limpos, analise-os para validar suas hipóteses e tirar conclusões sobre os dados. Use a análise estatística básica e crie gráficos para apoiar suas descobertas.
+8.Crie uma apresentação visualmente atraente com o mínimo de texto para mostrar que comunique efetivamente suas ideias e conclusões às partes interessadas, criando uma narrativa convincente que destaca a importância de sua análise.
+9.Organize seu código! Para melhorar a organização e a legibilidade do seu código, crie arquivos .py separados para funções relacionadas e use vários notebooks Jupyter, se necessário. Use uma "função de limpeza principal" em Cleaning.py (ou similar) que chame todas as funções de limpeza menores em uma ordem específica para executar todo o processo de limpeza de uma só vez. Seu código deve ser fácil de ler e entender para seus colegas (e futuros recrutadores).
+
+Entregáveis
+
+1.No Projeto do Portal do Aluno cole o link para um repositório github com
+	1.1.Um código funcional que atende a todos os requisitos técnicos , construído por você . (podem ser notebooks jupyter ou arquivos .py, de preferência ambos)
+	1.2.Qualquer arquivo adicional necessário (como .csv ou arquivos de imagem)
+	1.3.Um README com a documentação completa do projeto .
+	1.4.A URL dos slides para a apresentação do seu projeto.
+2.Apresentação: ao apresentar seu trabalho, há muitos fatores importantes a serem considerados, como o conteúdo de sua apresentação e a forma como você a entrega. O link a seguir oferece conselhos valiosos sobre como fazer uma apresentação forte : Apresentações.
+
+Recursos avançados opcionais
+
+Embora concluir os requisitos básicos do seu projeto seja um ótimo começo, aproveitar alguns recursos avançados pode realmente levar seu trabalho para o próximo nível. Aqui estão algumas opções a serem consideradas se você quiser ir além:
+
+1.Use técnicas avançadas de limpeza de dados, ao inserir valores ausentes ou lidar com duplicatas (como usar correspondência difusa), além das técnicas básicas.
+
+2.Utilize bibliotecas de visualização de dados mais sofisticadas, como Seaborn ou Plotly, para criar visualizações interativas e informativas que aprimoram sua análise. Por exemplo, um mapa interativo de ataques de tubarão.
+3.Aplique expressões regulares para extrair insights de dados textuais no conjunto de dados.
+4.Explore questões ou hipóteses adicionais além dos requisitos mínimos, combinando o conjunto de dados Shark Attack com outros conjuntos de dados, como clima ou dados oceanográficos, para criar uma análise mais abrangente que pode revelar informações adicionais.
+Qualquer coisa fora da caixa que possa melhorar sua análise!
+Apresentação 04/05/2023 às 9h00
+
+Se quiser fazer uma autoavaliação pode encontrar aqui alguns critérios de avaliação .
+
+
+
+https://www.sharkattackfile.net/
+	 
+ 	
+De acordo com a filosofia de Albert Einstein, a missão do Global Shark Attack File é fornecer dados atuais e históricos sobre interações tubarão/humano para aqueles que buscam informações precisas e significativas e referências verificáveis.
+
+Para pesquisadores que precisam de mais dados e para aqueles na mídia, o Global Shark Attack File fornece informações de contato direto dos investigadores do caso.
+
+Os humanos não estão no cardápio dos tubarões. Os tubarões mordem os humanos por curiosidade ou para se defender.
+
+O objetivo do Global Shark Attack File é demonstrar e enfatizar, por meio de análise forense, a importância das interações tubarão/humano em comparação com a miríade de perigos que enfrentamos em nossas vidas diárias. Com uma melhor compreensão dessas interações, podemos minimizar o risco de ser ferido por um tubarão e nos concentrar na conservação de todas as espécies de tubarões em todo o mundo.
+
+“Em vez de ignorar o problema ou fingir que podemos colocar redes e proteger todos dos tubarões, o que é necessário é uma
+campanha de educação pública para ensinar as pessoas a coexistir com os tubarões”, Lewis Levine, MD
+
+
+https://www.kaggle.com/datasets/teajay/global-shark-attacks
+Dataset para o desafio

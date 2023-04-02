@@ -1,0 +1,24 @@
+Shark Attack 
+
+https://youtu.be/W5RySbHukVs
+https://youtu.be/AugVEge2C9E
+
+https://youtu.be/LPvchXRbstA
+
+Dados limpos
+	Localização 
+	Quantidade/ Ano
+	Quantidade Total
+	Data
+
+Mapa mundi com dispersão e calor 
+      Scatter Plot
+
+Criar hipóteses no escopo do projeto
+definir perguntas 
+
+DATASET
+https://www.kaggle.com/datasets/teajay/global-shark-attacks
+
+DOCUMENTACAO PARA DATASET
+https://www.sharkattackfile.net/
