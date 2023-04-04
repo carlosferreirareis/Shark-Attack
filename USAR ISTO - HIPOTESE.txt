@@ -2,6 +2,10 @@ Hipótese-1
 A evolução da quantidade de ataques de tubarões ao longo dos anos, de acordo com a localidade.
 	Neste caso é necessário primordialmente a coluna ANO e a coluna LOCALIZAÇÃO
 
+Frequencia dos ataques durante as estacoes do ano
+	Neste caso necessário coluna de datas para poder identificar a estação em cada lugar/hemisfério
+	Temperatura média da água onde os tubarões gostam de ficar(buscar estudo)
+
 
 Hipótese-2
 
