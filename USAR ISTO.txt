@@ -1,4 +1,0 @@
-Utilize bibliotecas de visualização de dados mais sofisticadas, como Seaborn ou Plotly
-
-Por exemplo, um mapa interativo de ataques de tubarão.
-

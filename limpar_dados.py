@@ -24,4 +24,4 @@ def remover_linhas_colunas_vazias(dataframe):
     empty_rows = dataframe.index[dataframe.isnull().all(axis=1)]
     empty_cols = dataframe.columns[dataframe.isnull().all(axis=0)]
     df_clean = dataframe.drop(empty_rows, axis=0).drop(empty_cols, axis=1)
-    return print(df_clean)
+    return df_clean

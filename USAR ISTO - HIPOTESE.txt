@@ -1,0 +1,17 @@
+Hipótese-1
+A evolução da quantidade de ataques de tubarões ao longo dos anos, de acordo com a localidade.
+	Neste caso é necessário primordialmente a coluna ANO e a coluna LOCALIZAÇÃO
+
+
+Hipótese-2
+
+
+
+
+*******Criar função usando apply para limpar coluna Year
+
+
+Utilize bibliotecas de visualização de dados mais sofisticadas, como Seaborn ou Plotly
+
+Por exemplo, um mapa interativo de ataques de tubarão.
+
