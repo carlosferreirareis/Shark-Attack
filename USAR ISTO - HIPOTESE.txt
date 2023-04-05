@@ -26,6 +26,10 @@ https://youtu.be/rIwxjCnvdcY
 video ensinando capturar dados latitude e longitude
 https://youtu.be/asSNKH_ee0M
 
+
+video BarChartRace feito no Tableau
+https://youtu.be/DATwB-OmxSQ 
+
 video ensinando a plotar mapa de acordo com lat e long
 https://youtu.be/EElW-W0GmrA
 			* import folium
