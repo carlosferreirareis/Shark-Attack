@@ -7,6 +7,41 @@ Frequencia dos ataques durante as estacoes do ano
 	Temperatura média da água onde os tubarões gostam de ficar(buscar estudo)
 
 
+Colunas prontas
+Year
+Country
+Sex
+Fatal (Y/N)
+href formula
+			*Gráfico BarChartRace com evolução dos casos ao longo dos anos, com Year e Country, ranquear até os dias atuais.
+			*Gráfico que mostra a fatalidade ao longo dos anos
+			*Grárico que mostra o sexo dos mais atacados, correlacionar com fatalidade tbm
+
+			*linkar com a documentação do registro da ocorrência
+
+
+video ensinando capturar dados latitude e longitude
+https://youtu.be/asSNKH_ee0M
+
+video ensinando a plotar mapa de acordo com lat e long
+https://youtu.be/EElW-W0GmrA
+
+
+
+
+
+
+
+
+
+'Case Number', 'Date', 'Year', 'Type', 'Country', 'Area', 'Location',
+       'Activity', 'Name', 'Sex', 'Age', 'Injury', 'Fatal (Y/N)', 'Time',
+       'Species', 'Investigator or Source', 'pdf', 'href formula', 'href',
+       'Case Number.1', 'Case Number.2', 'original order'],
+      dtype='object'
+
+
+
 Hipótese-2
 
 
