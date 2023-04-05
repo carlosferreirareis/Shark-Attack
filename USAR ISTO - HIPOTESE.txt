@@ -19,6 +19,9 @@ href formula
 
 			*linkar com a documentação do registro da ocorrência
 
+vide grafico bar chart BarChartRace
+https://youtu.be/PjvePaBoYwo    Ted Petrou, criador do BarChartRace
+https://youtu.be/rIwxjCnvdcY
 
 video ensinando capturar dados latitude e longitude
 https://youtu.be/asSNKH_ee0M
