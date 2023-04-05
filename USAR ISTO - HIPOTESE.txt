@@ -28,7 +28,19 @@ https://youtu.be/asSNKH_ee0M
 
 video ensinando a plotar mapa de acordo com lat e long
 https://youtu.be/EElW-W0GmrA
+			* import folium
+			* mapa = folium.Map(location=[latitude, longitude])
+			* executa a variável mapa
 
+			* folium.Map(location=[latitude, longitude], tiles='Stamen Terrain',) não entendi pq virg final
+				Deste modo, parecido estilo satelite, vendo terra
+			*folium.Map(location=[latitude, longitude], tiles='Stamen Terrain',zoom_start=3)
+				Neste caso com zoom_start
+			*folium.Marker(location=[latitude, longitude],
+									popup='<i>Praça do Papa</i>',
+									tooltip='Click Here!'
+									tiles='Stamen Terrain',zoom_start=3
+									).add_to(mapa)
 
 
 
